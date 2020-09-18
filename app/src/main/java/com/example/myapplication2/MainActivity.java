@@ -30,7 +30,8 @@ public class MainActivity extends AppCompatActivity {
         double t2=t1 * 33.8;
         String outstr=String.valueOf(t2);
         out.setText(outstr);
+
+
     }
 
 }
-//2020/9/18修改后提交
