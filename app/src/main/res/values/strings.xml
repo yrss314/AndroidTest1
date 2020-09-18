@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">温度转换</string>
+    <string name="photo_name">My Photo</string>
+    <string name="my_name">陈力臭大屁猪猪</string>
+    <string name="button_name">转换</string>
+    <string name="cb_name1">不夸我</string>
+    <string name="msg1">~在这里显示转换后的华氏度~</string>
+    <string name="input_name">Inp</string>
+    <string name="input_msg">请输入摄氏度</string>
+</resources>
